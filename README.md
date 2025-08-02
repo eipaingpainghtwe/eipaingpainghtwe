@@ -18,6 +18,7 @@ Right now, I’m focused on **building ML models** and **deepening my skills in 
 
 ### 🔹 Project 1: Fall AI Studio *(Coming Soon)*  
 *(More details will be added as the project progresses.)*
+🔗 [View the Full Project Here](https://github.com/eipaingpainghtwe/AI-Studio-Project)
 
 ---
 
@@ -48,7 +49,7 @@ Figma, Canva
 **Award:**  
 🏆 **First Prize Winner** out of all competing teams
 
-🔗 [https://devpost.com/software/campusmate-enhancing-student-career-readiness](#) 
+🔗 [View the Full Project Here](https://devpost.com/software/campusmate-enhancing-student-career-readiness)
 
 ---
 

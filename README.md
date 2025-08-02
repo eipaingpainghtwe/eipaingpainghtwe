@@ -35,7 +35,20 @@ SVM, Random Forest, Gradient Boosting, Linear Discriminant
 **Result:**  
 Achieved **83% accuracy with SVM** using just **5 training samples** — demonstrating strong performance under data constraints.
 
-🔗 [View the Full Project Here](#) <!-- Replace with your actual project link -->
+---
+
+### 🔹 Project 3: LAGCC 2025 24-Hour Hackathon
+
+**What We Did:**  
+Designed **CampusMate** – a centralized platform that streamlines access to **career development resources** and connects students with **alumni mentors**.
+
+**Tools:**  
+Figma, Canva
+
+**Award:**  
+🏆 **First Prize Winner** out of all competing teams
+
+🔗 [https://devpost.com/software/campusmate-enhancing-student-career-readiness](#) 
 
 ---
 
